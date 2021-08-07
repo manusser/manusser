@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [NubeMarketing](https://www.nubemarketing.es)
 
-- 🌱 I’m currently learning **React, Next.JS**
+- 🌱 I’m currently learning **React, Next.JS & other JavaScript frameworks**
 
 - 👨‍💻 All of my projects are available at [https://github.com/manusser?tab=repositories](https://github.com/manusser?tab=repositories)
 
