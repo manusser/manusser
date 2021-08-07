@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manu</h1>
 <h3 align="center">A passionate fullstack web developer from Spain</h3>
 
-- 🔭 I’m currently working on [NubeMarketing](https://www.nubemarketing.es)
-
 - 🌱 I’m currently learning **React, Next.JS & other JavaScript frameworks**
 
 - 👨‍💻 All of my projects are available at [https://github.com/manusser?tab=repositories](https://github.com/manusser?tab=repositories)
