@@ -2,7 +2,7 @@
   <h1 align="center">Hi 👋, I'm Manu</h1>
   <h3 align="center">A passionate fullstack web developer from Spain</h3>
 
-  - 🌱 I’m currently learning **React, Next.JS & other JavaScript frameworks**
+  - 🌱 I’m currently learning **React, Next.JS, Laravel and some fun frameworks**
 
   - 👨‍💻 All of my projects are available at [https://github.com/manusser?tab=repositories](https://github.com/manusser?tab=repositories)
 
