@@ -6,6 +6,8 @@
 
   - 👨‍💻 All of my projects are available at [https://github.com/manusser?tab=repositories](https://github.com/manusser?tab=repositories)
 
+  - Reach me at: mse@riseup.net
+
   <h3 align="left">Connect with me:</h3>
   <p align="left">
   <a href="https://codepen.io/srmanu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="srmanu" height="30" width="40" /></a>
